@@ -9,24 +9,3 @@ picoctf  2013
 
 >	Guess the code.
               
-
-
-*  Second contact :
-
- search pcap > find the best  search engine ( google) > go to the address
- 	http://insecure.org/stf/smashstack.html
-get the name of the author
-
-
-
-* In HEX , no one can hear u complain
-
-open the file 
-hint given is :  check the first 2 bytes…
-always , the first two bytes of a docx file is PK - Phil Katz.
-also , the word zipped is underlined twice .
-ZIP is also a PK product.
-so , rename the file as .zip.
-open it , there lies the PNG image.
-find the key !
-hurrraaayyy !!!!!!!!!!!!!
