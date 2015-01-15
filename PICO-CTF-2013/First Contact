@@ -1,0 +1,38 @@
+First Contact 
+
+
+PROBLEM :
+
+
+You notice that the indicator light near the robot’s antenna begins to blink. Perhaps the robot is connecting to a network? Using a wireless card and the network protocol analyzer Wireshark, you are able to create a PCAP file containing the packets sent over the network.
+
+You suspect that the robot is communicating with the crashed ship. Your goal is to find the location of the ship by inspecting the network traffic.
+
+You can perform the analysis online on Cloudshark or you can download the PCAP file.
+
+
+Hint:
+It may help to learn a bit about network communication on the Internet and Wireshark.
+
+
+SOLUTION :
+
+
+Well , the link directs to the Wireshark with the PCAP file already loaded.
+
+Two of the streams ( that lie in the end ) are highlighted in grey .
+
+
+
+> Select any one of them.
+
+> Click on Anaylasis Tools > Follow stream.
+
+> And you get a location tag - ' 37 14'06"N 115 48'40"W '.
+
+> Google the tag and you get the result as ' Area 51 '.
+
+
+FLAG : 
+
+                                      Area 51
